@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+img{
+	width:300px;
+	transition:all 1s linear;
+}
+img:hover{
+	width:400px;
+	border:2px solid red;
+}
